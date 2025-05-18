@@ -2,15 +2,15 @@
   "1": {
     "darwin-x86-64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/darwin.zip",
-      "hash": "a6235c390b57e495aadc51d73017f36f"
+      "hash": "b90ffafd549271dcdfb3a4a14fdc8c0d"
     },
-    "darwin-aarch64": {
-      "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/darwin-aarch64.zip",
-      "hash": "857bfa50ce793b4ae36cf0e028888739"
+    "linux-aarch64": {
+      "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/linux-aarch64.zip",
+      "hash": "ba343a7d0a6d7a1978c4704a87c92569"
     },
     "linux-x86-64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/linux-x86-64.zip",
-      "hash": "567e388694da212f6b89b24aeb5e7c8b"
+      "hash": "e3bdbe22fcb35d0217898590941987a7"
     },
     "win-x86-64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/win-x86-64.zip",
@@ -23,15 +23,15 @@
   "2": {
     "darwin": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/darwin.zip",
-      "hash": "6ebf03e06cd52c2087a92d7767a24970"
+      "hash": "b90ffafd549271dcdfb3a4a14fdc8c0d"
     },
     "linux-aarch64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/linux-aarch64.zip",
-      "hash": "7d9fcc180152aee9a8da30dab9469bb8"
+      "hash": "ba343a7d0a6d7a1978c4704a87c92569"
     },
     "linux-x86-64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/linux-x86-64.zip",
-      "hash": "567e388694da212f6b89b24aeb5e7c8b"
+      "hash": "e3bdbe22fcb35d0217898590941987a7"
     },
     "win-x86-64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/win-x86-64.zip",
