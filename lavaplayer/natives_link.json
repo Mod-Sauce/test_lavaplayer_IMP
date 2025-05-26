@@ -44,15 +44,15 @@
   "2.2.3": {
     "darwin": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/darwin.zip",
-      "hash": "b90ffafd549271dcdfb3a4a14fdc8c0d"
+      "hash": "6ebf03e06cd52c2087a92d7767a24970"
     },
     "linux-aarch64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/linux-aarch64.zip",
-      "hash": "ba343a7d0a6d7a1978c4704a87c92569"
+      "hash": "7d9fcc180152aee9a8da30dab9469bb8"
     },
     "linux-x86-64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/linux-x86-64.zip",
-      "hash": "e3bdbe22fcb35d0217898590941987a7"
+      "hash": "567e388694da212f6b89b24aeb5e7c8b"
     },
     "win-x86-64": {
       "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/win-x86-64.zip",
