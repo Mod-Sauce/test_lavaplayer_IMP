@@ -40,5 +40,26 @@
         "connector.dll": "c88db339344ac8614dcb1476eef4c219"
       }
     }
+  },
+  "2.2.3": {
+    "darwin": {
+      "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/darwin.zip",
+      "hash": "b90ffafd549271dcdfb3a4a14fdc8c0d"
+    },
+    "linux-aarch64": {
+      "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/linux-aarch64.zip",
+      "hash": "ba343a7d0a6d7a1978c4704a87c92569"
+    },
+    "linux-x86-64": {
+      "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/linux-x86-64.zip",
+      "hash": "e3bdbe22fcb35d0217898590941987a7"
+    },
+    "win-x86-64": {
+      "url": "https://github.com/Mod-Sauce/test_lavaplayer_IMP/tree/main/lavaplayer/natives/win-x86-64.zip",
+      "hash": {
+        "libmpg123-0.dll": "562855db38398cf2cd001b99f88095d1",
+        "connector.dll": "c88db339344ac8614dcb1476eef4c219"
+      }
+    }
   }
 }
