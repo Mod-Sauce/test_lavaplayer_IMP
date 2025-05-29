@@ -40,7 +40,7 @@
         "connector.dll": "c88db339344ac8614dcb1476eef4c219"
       }
     }
-  }
+  },
   "2.2.3": {
     "darwin": {
       "url": "https://github.com/TeamFelnull/IamMusicPlayer/raw/master/lavaplayer/natives/darwin.zip",
