@@ -61,8 +61,8 @@
         "connector.dll": "c88db339344ac8614dcb1476eef4c219"
       }
     }
-  }
-    "2.2.4": {
+  },
+  "2.2.4": {
     "darwin": {
       "url": "https://raw.githubusercontent.com/Mod-Sauce/test_lavaplayer_IMP/refs/heads/2.2.4/lavaplayer/natives/darwin.zip",
       "hash": "6ebf03e06cd52c2087a92d7767a24970"
