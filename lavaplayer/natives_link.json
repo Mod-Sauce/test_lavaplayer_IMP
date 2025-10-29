@@ -72,7 +72,7 @@
       "hash": "7d9fcc180152aee9a8da30dab9469bb8"
     },
     "linux-x86-64": {
-      "url": "https://raw.githubusercontent.com/Mod-Sauce/test_lavaplayer_IMP/refs/heads/2.2.4/lavaplayer/natives/linux-x86-64.zip",
+      "url": "https://github.com/TeamFelnull/IamMusicPlayer/raw/master/lavaplayer/natives/linux-x86-64.zip",
       "hash": "567e388694da212f6b89b24aeb5e7c8b"
     },
     "win-x86-64": {
